@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Конвертацию более 250 валют
     description                           : Включая криптовалюты, и возможность сравнивать их одновременно
-    fontawesome_icon_name                 : money
+    fontawesome_icon_name                 : sync
     
   - title                                 : Автоматическое обновление курсов каждый день.
     description                           : 
@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : Темная тема
     description                           : Которая делает использование приложения приятным даже в темное время суток.
-    fontawesome_icon_name                 : television
+    fontawesome_icon_name                 : square-o
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
