@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : Темная тема
     description                           : Которая делает использование приложения приятным даже в темное время суток.
-    fontawesome_icon_name                 : circle-three-quarters-stroke
+    fontawesome_icon_name                 : palette
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -68,9 +68,9 @@ features                                  :
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
-topbar_title_color                        : "#ffffff"
+topbar_title_color                        : "#08081F"
 
-cover_image                               : assets/Rectangle 28.png                   # Replace with alternative image path or image URL.
+cover_image                               :                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
 cover_overlay_transparency                : 0.1
 
@@ -80,9 +80,9 @@ body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#08081F"
+app_price_color                           : "#08081F"
+app_description_color                     : "#08081F"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
