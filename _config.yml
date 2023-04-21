@@ -53,11 +53,11 @@ features                                  :
 
   - title                                 : Чистый, понятный и современный дизайн
     description                           : Который не отвлекает от главной функции - быстрого и точного конвертирования.
-    fontawesome_icon_name                 : fa-eye-dropper
+    fontawesome_icon_name                 : eye-dropper
   
   - title                                 : Темная тема
     description                           : Которая делает использование приложения приятным даже в темное время суток.
-    fontawesome_icon_name                 : fa-object-subtract
+    fontawesome_icon_name                 : circle-three-quarters-stroke
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
